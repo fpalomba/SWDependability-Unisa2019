@@ -1,0 +1,35 @@
+
+> Groups:
+
+(1) Lucio Giordano, Carmine D'alessandro, Simone Faiella
+(2) Mauro Borrazzo, Luigi D'arco, Giulia Sellitto
+(3) Simona Santoro, Marialuisa Trerè, Rosanna Coccaro
+(4) Aadm, Ruslana, Vadim, Abylay
+(5) Vincenzo Gallicchio, Nicola Volpe
+(6) Luca di Luccio, Francesco De Simone, Tanveer
+(7) Orlando Napoli, Giovanni Cammarano, Salvatore Arienzo, Armando Ferrara
+
+> Assignment:
+
+(4) Terminology and definition of software vulnerabilities: Chapter 2 of vuln-definitions.pdf
+(5) Some examples of vulnerabilities: vuln-examples.pdf
+(2) Distribution of vulnerabilities in CVE: vuln-CVE_trends.pdf
+(3) Vulnerability lifecycle: vuln-lifecycle.pdf
+(7) Vulnerability impact: vuln-impact.pdf
+(6) Approaches to detect vulnerabilities: vuln-discovery.pdf
+(1) Focusing on static analysis: vuln-ASATs.pdf
+
+> General Notes and Recommendations:
+
+- The pairs (paper-group) have been done based on the number of team members, i.e., larger groups have longer papers;
+- The order of presentations follows the logical structure of the lecture; as such, group (4) will be the first presenting, followed by group (5), (2), etc.;
+- Each group has 20 minutes for presenting, followed by 10 minutes of discussion. Every three presentations there will be a break. Please, bring your own adapters to avoid problems;
+- Each member of a group should take part of the presentation; To ease the coordination of the activities, I highly recommend making slides using a Google Drive presentation;
+- To allow other groups understanding the various parts of the lecture, I highly recommend making practical examples and discuss them during the presentation, e.g., the term "error" is not a synonym of "vulnerability": may you make an example to show how they are different?
+
+>  Some Specific Recommendations:
+
+- Groups (4) and (5): As mentioned above, please discuss examples to make clear the context of the problem;
+- Group (2): Please, introduce CVE during your presentation;
+- Group (6): Ideally, in your presentation you show an example demonstrating how different techniques work and what are the main differences among them;
+- Group (1): Ideally, in your presentation you show how to setup and run one of the static analysis tools on JPacman (e.g., one of the best ones, according to the empirical analysis?).
